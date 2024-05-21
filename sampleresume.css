@@ -1,0 +1,34 @@
+*{
+    margin-left: 10px;
+}
+h1{
+    font-weight:bold;
+}
+span{
+    color:blue;
+}
+.how{
+    color: purple;
+    text-decoration: underline;
+}
+hr{
+    color: blue;
+    border: solid;
+}
+.blue{
+    text-decoration: underline;
+    color: blue;
+}
+p{
+    font-size: 23px;
+}
+#brown{
+    font-size:18px;
+}
+#yellow{
+    font-size:20px;
+    font-weight: bold;
+}
+#pink{
+    font-size: 20px;
+}
